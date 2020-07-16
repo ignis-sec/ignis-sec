@@ -9,7 +9,7 @@
 **$ whoami** 
 - Pentester by day, bug bounty hunter when desperate, and infosec data wizard by night 🧙‍♂️
 - Still in university. Senior year computer engineering student at Metu NCC. 
-- CTF Player [@excusemetwf](https://ctftime.org/team/104977) 🚩
+- CTF Player [@excusemewtf](https://ctftime.org/team/104977) 🚩
 - Sunday is my twitter shitposting day, no github issues will be resolved that day.
 
 
