@@ -1,12 +1,15 @@
 
 ### Hi there 👋
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahakcil?style=flat-square)](https://twitter.com/ahakcil)
+[![Linkedin](https://bb.flameofignis.com/img/linkedin.svg?)](https://linkedin.com/in/ata-hakcil/)
 [![GitHub followers](https://img.shields.io/github/followers/FlameOfIgnis?style=flat-square)](https://github.com/FlameOfIgnis?tab=followers)
+
 ---
 **$ whoami** 
 - Pentester by day, bug bounty hunter when desperate, and infosec data wizard by night 🧙‍♂️
 - Still in university. Senior year computer engineering student at Metu NCC. 
-- CTF Player [@excusemewtf](https://ctftime.org/team/104977) 🚩
+- CTF Player [@excusemetwf](https://ctftime.org/team/104977) 🚩
 - Sunday is my twitter shitposting day, no github issues will be resolved that day.
 
 
@@ -24,4 +27,5 @@
 <p align="center">
   bc1quxwhewutde2ehjzqcflcgdjqwg34pmcdq3chcp
 </p>
+
 
