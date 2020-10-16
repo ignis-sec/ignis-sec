@@ -2,7 +2,6 @@
 ### Hi there 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahakcil?style=flat-square)](https://twitter.com/ahakcil)
-[![Linkedin](https://bb.flameofignis.com/img/linkedin.svg?)](https://linkedin.com/in/ata-hakcil/)
 [![GitHub followers](https://img.shields.io/github/followers/FlameOfIgnis?style=flat-square)](https://github.com/FlameOfIgnis?tab=followers)
 
 ---
@@ -21,7 +20,7 @@
 
 
 <p align="center">
-  <img src="https://flameofignis.com/raw/pwdb-donate.png" />
+  <img src="https://blog.ignis.wtf/raw/pwdb-donate.png" />
 </p>
 
 <p align="center">
