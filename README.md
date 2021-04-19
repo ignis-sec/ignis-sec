@@ -21,6 +21,13 @@
 </p>
 
 
+<p float="left" align="center">
+  <a href="https://www.youtube.com/watch?v=zyYRLC5fsEk"><img align="center" alt="guy" height="250" src="https://github.com/FlameOfIgnis/FlameOfIgnis/blob/master/Spotify_Sync_demo.gif?raw=true" /></a>
+  
+  
+<img align="center" alt="guy" height="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</p>
+
 <p align="center">
-<img align="center" alt="guy" width="375" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 </p>
