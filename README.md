@@ -22,7 +22,8 @@
 
 
 <p float="left" align="center">
-  <a href="https://www.youtube.com/watch?v=zyYRLC5fsEk"><img align="center" alt="guy" height="250" src="https://github.com/FlameOfIgnis/FlameOfIgnis/blob/master/Spotify_Sync_demo.gif?raw=true" /></a>
+  Check out my <a href="https://github.com/FlameOfIgnis/spotify-sync">spotify sync</a> framework. <a href="https://www.youtube.com/watch?v=zyYRLC5fsEk">Full demo here</a>.<br>
+  <a href="https://github.com/FlameOfIgnis/spotify-sync"><img align="center" alt="check out my spotify sync framework" height="250" src="https://github.com/FlameOfIgnis/FlameOfIgnis/blob/master/Spotify_Sync_demo.gif?raw=true" /></a>
   
   
 <img align="center" alt="guy" height="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
