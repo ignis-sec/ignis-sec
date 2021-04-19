@@ -30,5 +30,6 @@
 </p>
 
 <p align="center">
-
+  Also, no. The total number of commits in my profile is not entirely correct. Check out <a href="https://github.com/FlameOfIgnis/github-year-draw"> github draw</a> for some clarification.
+<br><img src="https://i.imgur.com/lbyAM4Q.jpg">
 </p>
