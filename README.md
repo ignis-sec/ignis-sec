@@ -9,6 +9,7 @@
 
 **$ whoami** 
 - Pentester by day, bug bounty hunter when desperate, and infosec data wizard by night 🧙‍♂️
+- Mostly security researcher, exploit developer, cve necromancer, usual stuff.
 - Still in university. Senior year computer engineering student at Metu NCC. 
 - CTF Player [@excusemewtf](https://ctftime.org/team/104977) 🚩
 
@@ -19,6 +20,6 @@
 </p>
 
 
-
-<img align="right" alt="guy" width="375" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
+<p align="center">
+<img align="center" alt="guy" width="375" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</p>
