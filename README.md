@@ -33,3 +33,7 @@
   Also, no. The total number of commits in my profile is not entirely correct. Check out <a href="https://github.com/ignis-sec/github-year-draw"> github draw</a> for some clarification.
 <br><img src="https://i.imgur.com/lbyAM4Q.jpg">
 </p>
+
+<p float="center" align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ignis-sec&row=1&column=8"> 
+</p>
