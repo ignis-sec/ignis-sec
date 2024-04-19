@@ -8,11 +8,13 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 **$ whoami** 
-- Pentester by day, bug bounty hunter when desperate, and infosec data wizard by night 🧙‍♂️
-- Mostly security researcher, exploit developer, cve necromancer, usual stuff.
+- Mad scientist, exploit developer, CVE necromancer, usual stuff.
+- Strategic Technology Consultant & Security Researcher.
+- Current research focus on Transformer model architecture, diffusion models, machine reasoning.
+- Still a security nerd and infosec wizard 🧙‍♂️ at heart.
 - Graduated from Middle East Technical University NCC Computer Engineering Program.
-- Currently pursuing Master's Degree.
-- CTF Player.🚩
+- Currently pursuing Master's Degree and doing private research. 
+- CTF Player and passionate 🚩 collector.
 
 <br><br>
 
