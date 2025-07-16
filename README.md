@@ -8,13 +8,18 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 **$ whoami** 
-- Mad scientist, exploit developer, CVE necromancer, usual stuff.
-- Strategic Technology Consultant & Security Researcher.
-- Current research focus on Transformer model architecture, diffusion models, machine reasoning.
-- Still a security nerd and infosec wizard 🧙‍♂️ at heart.
-- Graduated from Middle East Technical University NCC Computer Engineering Program.
-- Currently pursuing Master's Degree and doing private research. 
-- CTF Player and passionate 🚩 collector.
+- Mad scientist gone even madder over the years. Still breaking things but now occasionally making some as well.
+- Current research focus on Physics-inspired Machine Learning, Hamiltonian and Lagrangian Neural Networks, Liquid Time-Constant models, Quantum Machine Learning, even cooler stuff I can't tell yet.
+- Mostly working on Machine Learning nowadays, but still a security nerd and infosec wizard 🧙‍♂️ at heart.
+- Exploit developer, CVE necromancer, usual stuff. 
+- Lifetime CTF Player and passionate 🚩 collector.
+- What I do:
+  * Lead Machine Learning Engineer @Cassiel.ai
+  * Strategic Technology Consultant @Webselenese
+  * Security Consultant @ExpressVPN
+  * Vulnerability Researcher @When inspiration strikes
+
+
 
 <br><br>
 
@@ -33,7 +38,6 @@
 </p>
 
 <p align="center">
-  Also, no. The total number of commits in my profile is not entirely correct. Check out <a href="https://github.com/ignis-sec/github-year-draw"> github draw</a> for some clarification.
 <br><img src="https://i.imgur.com/lbyAM4Q.jpg">
 </p>
 
