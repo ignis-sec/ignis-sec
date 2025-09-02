@@ -42,5 +42,5 @@
 </p>
 
 <p float="center" align="center">
-  <img src="https://github-profile-trophy-ou5r1wvbk-ryo-ma-s-team.vercel.app/?username=ignis-sec&row=1&column=8"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=ignis-sec&row=1&column=8"> 
 </p>
