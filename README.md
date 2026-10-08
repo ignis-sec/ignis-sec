@@ -14,9 +14,9 @@
 - Exploit developer, CVE necromancer, usual stuff. 
 - Lifetime CTF Player and passionate 🚩 collector.
 - What I do:
-  * Lead Machine Learning Engineer @Cassiel.ai
-  * Strategic Technology Consultant @Webselenese
+  * Cofounder of @Abscondita Labs
   * Security Consultant @ExpressVPN
+  * Strategic Technology Consultant @Webselenese
   * Vulnerability Researcher @When inspiration strikes
 
 
@@ -24,8 +24,8 @@
 <br><br>
 
 <p float="left" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ignis-sec&show_icons=true&line_height=33&count_private=true&theme=light&1" alt="Ignis's GitHub Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignis-sec&langs_count=4&line_height=35&theme=light" />
+<img align="center" src="https://github-stats-extended.vercel.app/api?username=ignis-sec&show_icons=true&line_height=33&count_private=true&theme=light&1" alt="Ignis's GitHub Stats" />
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ignis-sec&langs_count=4&line_height=35&theme=light" />
 </p>
 
 
@@ -42,5 +42,5 @@
 </p>
 
 <p float="center" align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ignis-sec&row=1&column=8"> 
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=ignis-sec&row=1&column=8"> 
 </p>
